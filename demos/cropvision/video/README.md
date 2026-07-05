@@ -1,3 +1,3 @@
 # CropVision demo video
 
-Large videos are intentionally ignored by Git. Add the public video URL to the button in `../index.html`.
+Use `preview.mp4` for a short GitHub-hosted preview. Use the external-link button in `../index.html` for the full demo.
