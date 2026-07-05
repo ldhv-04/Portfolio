@@ -1,4 +1,4 @@
-# Vũ Lê Đình Hoàng — Portfolio
+# Lê Đình Hoàng Vũ — Portfolio
 
 A dependency-free, one-page portfolio for Computer Vision, Applied AI, and Embedded AI internship applications. It is designed for GitHub Pages and works without a build step.
 
